@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "from": "18.11.2023",
+    "to": "19.11.2023",
+    "people": "2",
+    "meal": "zadne",
+    "pets": true,
+    "child": false,
+    "nolimits": false,
+    "email": "guest@example.com",
+    "phone": "606806504",
+    "status": "new"
+  },
+  {
+    "id": 1,
+    "from": "18.11.2023",
+    "to": "19.11.2023",
+    "people": "2",
+    "meal": "zadne",
+    "pets": false,
+    "child": false,
+    "nolimits": false,
+    "email": "guest123@example.com",
+    "phone": "707806504",
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "from": "18.11.2023",
+    "to": "19.11.2023",
+    "people": "2",
+    "meal": "zadne",
+    "pets": false,
+    "child": false,
+    "nolimits": false,
+    "email": "guest123@example.com",
+    "phone": "707806504",
+    "status": "confirmed"
+  },
+  {
+    "id": 3,
+    "from": "18.11.2023",
+    "to": "19.11.2023",
+    "people": "2",
+    "meal": "zadne",
+    "pets": false,
+    "child": false,
+    "nolimits": false,
+    "email": "guest123@example.com",
+    "phone": "707806504",
+    "status": "rejected"
+  }
+]
